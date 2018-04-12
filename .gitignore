@@ -1,0 +1,41 @@
+# Intellij
+.idea/
+target/
+*.iml
+*.iws
+*.log
+
+# Mac
+.DS_Store
+
+# eclipse specific git ignore
+*.pydevproject
+.project*
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath*
+.settings/
+.loadpath
+/bin
+.checkstyle
+/out/
+.externalToolBuilders/
+/target
+maven-eclipse.xml
+
+src/main/webapp/resources/build/*
+src/main/webapp/resources/themes/yosemite/css/*
+src/main/resources/config/brucke-accessclient.dev.desktop.plist
+node_modules/
+response-cache
+lib
+static
+coverage
+lcov*

@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "ReactPOC",
+      "script": "lib/server.js"
+    }
+  ]
+}
